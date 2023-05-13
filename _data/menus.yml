@@ -43,8 +43,8 @@ footer:
   - name: "Forschung"
     url: "https://medium.com/generatedart"
     weight: 5
-  - name: "Apply"
-    url: "/apply/"
+  - name: "Bewerben"
+    url: "/bewerben/"
     weight: 6
 
 
