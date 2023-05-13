@@ -1,46 +1,46 @@
 main:
-  - name: "Home"
+  - name: "Rezeption"
     url: "/"
     weight: 1
-  - name: "About"
-    url: "/about/"
+  - name: "Über"
+    url: "/uber/"
     weight: 2
-  - name: "Services"
-    url: "/services/"
+  - name: "Dienstleistungen"
+    url: "/dienstleistungen/"
     weight: 3
-  - name: "Contact"
-    url: "/contact/"
+  - name: "Kontakt"
+    url: "/kontakt/"
     weight: 5
+  - name: "/en"
+    url: "https://expo.generatedart.com"
+    weight: 6
   - name: "/es"
     url: "https://expo.es.generatedart.com"
-    weight: 6
+    weight: 7
   - name: "/pt"
     url: "https://expo.pt.generatedart.com"
-    weight: 7
+    weight: 8
   - name: "/fr"
     url: "https://expo.fr.generatedart.com"
-    weight: 8
-  - name: "/de"
-    url: "https://expo.de.generatedart.com"
     weight: 9
   - name: "/it"
     url: "https://expo.it.generatedart.com"
     weight: 10
 
 footer:
-  - name: "Main site"
+  - name: "Hauptseite"
     url: "https://generatedart.com"
     weight: 1
   - name: "Shop"
     url: "https://shop.generatedart.com"
     weight: 2
-  - name: "Exposition"
-    url: "https://expo.generatedart.com"
+  - name: "Ausstellung"
+    url: "https://expo.de.generatedart.com"
     weight: 3
-  - name: "Decoration"
-    url: "https://deco.generatedart.com"
+  - name: "Dekoration"
+    url: "https://deco.de.degeneratedart.com"
     weight: 4
-  - name: "Research"
+  - name: "Forschung"
     url: "https://medium.com/generatedart"
     weight: 5
   - name: "Apply"
