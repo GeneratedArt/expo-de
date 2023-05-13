@@ -1,7 +1,7 @@
 ---
-title: Services
+title: Dienstleistungen
 layout: services
-description: Services
+description: Dienstleistungen
 intro_image: "images/illustrations/services.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
