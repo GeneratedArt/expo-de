@@ -1,7 +1,7 @@
 ---
 title: GeneratedArt
 layout: home
-description: The GeneratedArt exhibition service is dedicated to showcasing the best and most innovative works of generative art from around the world. Our team of experienced curators carefully selects and reviews each piece of artwork, ensuring that it meets our high standards for technical proficiency, artistic vision, and creativity.
+description: Der Ausstellungsservice von GeneratedArt widmet sich der Präsentation der besten und innovativsten Werke der generativen Kunst aus aller Welt. Unser Team aus erfahrenen Kuratoren wählt jedes Kunstwerk sorgfältig aus und überprüft es, um sicherzustellen, dass es unseren hohen Standards für technische Kompetenz, künstlerische Vision und Kreativität entspricht.
 intro_image: "images/illustrations/exhibition.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
