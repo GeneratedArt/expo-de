@@ -4,50 +4,50 @@ date: 2019-01-28T15:15:26+10:00
 weight: 2
 ---
 
-Our platform hosts nodes for various payment channels, including VISA/MasterCard, Bitcoin using the Lightning network, Ethereum using the Raiden and Polygon network, Cardano, Tezos and Solana.
+Unsere Plattform hostet Knoten für verschiedene Zahlungskanäle, einschließlich VISA/MasterCard, Bitcoin über das Lightning-Netzwerk, Ethereum über das Raiden- und Polygon-Netzwerk, Cardano, Tezos und Solana.
 
 ![Payments](/images/illustrations/payments.png)
 
-With our secure and reliable infrastructure, we provide lightning-fast payment solutions for our clients, enabling them to transact with ease and convenience. Our commitment to using the latest technology ensures that our nodes are always up-to-date and fully optimized for performance, security, and scalability.
+Mit unserer sicheren und zuverlässigen Infrastruktur bieten wir blitzschnelle Zahlungslösungen für unsere Kunden, die es ihnen ermöglichen, mit Leichtigkeit und Bequemlichkeit zu transagieren. Unser Engagement für den Einsatz modernster Technologie stellt sicher, dass unsere Knoten stets auf dem neuesten Stand und vollständig optimiert sind für Leistung, Sicherheit und Skalierbarkeit.
 
-# Introduction
+# Einführung
 
-Our payment solutions for generative art exhibitions offer a range of options to make purchasing or bidding on artwork seamless and secure. Customers can use traditional payment methods such as VISA or MasterCard by using a payment terminal, SWIFT international wire transfers, as well as popular cryptocurrencies such as Bitcoin, Ethereum, Tezos, Cardano, or Solana.
+Unsere Zahlungslösungen für generative Kunstausstellungen bieten eine Reihe von Optionen, um den Kauf oder das Bieten auf Kunstwerke nahtlos und sicher zu gestalten. Kunden können traditionelle Zahlungsmethoden wie VISA oder MasterCard mit einem Zahlungsterminal, SWIFT-Internationale Überweisungen sowie beliebte Kryptowährungen wie Bitcoin, Ethereum, Tezos, Cardano oder Solana verwenden.
 
-## Bidding or direct buy
+## Bieten oder Direktkauf
 
-Bidding during generative art exhibitions is made easy and accessible through the use of QR codes. Visitors can simply scan the QR code at the exhibition location to start the bidding process. Upon scanning, they will be prompted to create an account and associate their contact and payment information. From there, they can begin bidding on their desired generative art piece until the set time or date.
+Das Bieten während generativer Kunstausstellungen wird durch die Verwendung von QR-Codes einfach und zugänglich gemacht. Besucher können einfach den QR-Code am Ausstellungsort scannen, um den Bietprozess zu starten. Nach dem Scannen werden sie aufgefordert, ein Konto zu erstellen und ihre Kontakt- und Zahlungsinformationen zu verknüpfen. Von dort aus können sie mit dem Bieten auf ihr gewünschtes generatives Kunstwerk beginnen, bis die festgelegte Zeit oder das festgelegte Datum erreicht ist.
 
-Once bidding is closed, the highest bidder will be charged for their winning bid. It's important to note that to protect bidders from inflated prices, no bidding is authorized from the organizers, artists, or anyone related to the project. This ensures a fair and transparent bidding process for all interested buyers.
+Sobald das Bieten geschlossen ist, wird der Höchstbietende für sein gewonnenes Gebot belastet. Es ist wichtig zu beachten, dass zum Schutz der Bieter vor aufgeblähten Preisen keine Gebote von den Organisatoren, Künstlern oder Personen, die mit dem Projekt in Verbindung stehen, zugelassen sind. Dies stellt einen fairen und transparenten Bietprozess für alle interessierten Käufer sicher.
 
-Visitors also have the option to purchase art pieces directly through our service. By scanning a QR code provided next to the artwork, visitors can select their preferred payment option and complete the transaction. Once payment is confirmed, the buyer can then leave with the generative art.
+Besucher haben auch die Möglichkeit, Kunstwerke direkt über unseren Service zu kaufen. Durch das Scannen eines neben dem Kunstwerk bereitgestellten QR-Codes können die Besucher ihre bevorzugte Zahlungsoption auswählen und die Transaktion abschließen. Sobald die Zahlung bestätigt ist, kann der Käufer dann mit dem generativen Kunstwerk gehen.
 
-## Lightning network for Bitcoin
+## Lightning-Netzwerk für Bitcoin
 
-The Lightning Network is a layer-2 payment protocol built on top of the Bitcoin blockchain. It is designed to facilitate faster and cheaper transactions by enabling parties to transact off-chain, meaning that transactions are not recorded on the blockchain until they are settled.
+Das Lightning-Netzwerk ist ein Layer-2-Zahlungsprotokoll, das auf der Bitcoin-Blockchain aufbaut. Es wurde entwickelt, um schnellere und günstigere Transaktionen zu ermöglichen, indem es Parteien ermöglicht, Off-Chain zu transagieren, d.h. Transaktionen werden nicht auf der Blockchain aufgezeichnet, bis sie abgerechnet werden.
 
-In the Lightning Network, payment channels are created between two parties, allowing them to transact with each other without broadcasting each transaction to the entire network. These payment channels can be used to send multiple transactions between the same two parties, with the final state of the channel being broadcast to the blockchain.
+Im Lightning-Netzwerk werden Zahlungskanäle zwischen zwei Parteien erstellt, die es ihnen ermöglichen, miteinander zu transagieren, ohne jede Transaktion an das gesamte Netzwerk zu senden. Diese Zahlungskanäle können verwendet werden, um mehrere Transaktionen zwischen denselben beiden Parteien durchzuführen, wobei der endgültige Zustand des Kanals auf der Blockchain ausgestrahlt wird.
 
-Our service provides generated QR codes that can be used to facilitate Lightning Network transactions for Bitcoin. This allows for a seamless and efficient payment solution for generative art exhibitions, enabling visitors to easily purchase or bid on artwork using their Bitcoin wallet.
+Unser Service bietet generierte QR-Codes, die verwendet werden können, um Lightning-Netzwerk-Transaktionen für Bitcoin zu erleichtern. Dies ermöglicht eine nahtlose und effiziente Zahlungslösung für generative Kunstausstellungen, die es Besuchern ermöglicht, Kunstwerke einfach mit ihrem Bitcoin-Wallet zu kaufen oder darauf zu bieten.
 
-## Polygon network for Ethereum
+## Polygon-Netzwerk für Ethereum
 
-Polygon (formerly known as Matic Network) is a Layer 2 scaling solution for Ethereum that aims to improve scalability and reduce transaction fees. It is a sidechain that runs parallel to the Ethereum mainnet, but with faster transaction speeds and lower gas fees.
+Polygon (ehemals als Matic Network bekannt) ist eine Layer-2-Skalierungslösung für Ethereum, die darauf abzielt, die Skalierbarkeit zu verbessern und die Transaktionsgebühren zu senken. Es handelt sich um eine Sidechain, die parallel zur Ethereum-Hauptkette läuft, jedoch mit schnelleren Transaktionsgeschwindigkeiten und niedrigeren Gasgebühren.
 
-Polygon works by using a Proof-of-Stake (PoS) consensus algorithm instead of the energy-intensive Proof-of-Work (PoW) algorithm used by Ethereum. This allows for faster processing times and lower transaction fees.
+Polygon funktioniert durch die Verwendung eines Proof-of-Stake (PoS)-Konsensalgorithmus anstelle des energieintensiven Proof-of-Work (PoW)-Algorithmus, der von Ethereum verwendet wird. Dies ermöglicht schnellere Verarbeitungszeiten und niedrigere Transaktionsgebühren.
 
-Our service provides generated QR codes that can be used for payment on the Polygon network. This means that users can easily and securely pay for generative art using cryptocurrencies such as MATIC, which is the native token of the Polygon network. By providing QR codes, we aim to simplify the payment process for visitors and make it more accessible to use cryptocurrencies for purchasing generative art at exhibitions.
+Unser Service bietet generierte QR-Codes, die zur Zahlung im Polygon-Netzwerk verwendet werden können. Dies bedeutet, dass Benutzer generative Kunst sicher und einfach mit Kryptowährungen wie MATIC, dem nativen Token des Polygon-Netzwerks, bezahlen können. Durch die Bereitstellung von QR-Codes möchten wir den Zahlungsprozess für Besucher vereinfachen und die Verwendung von Kryptowährungen für den Kauf von generativer Kunst auf Ausstellungen zugänglicher machen.
 
-## Raiden network for Ethereum
+## Raiden-Netzwerk für Ethereum
 
-The Raiden Network is a scaling solution for Ethereum that aims to increase the speed and reduce the cost of transactions on the blockchain. It is an off-chain solution that utilizes payment channels to enable faster and more efficient transactions.
+Das Raiden-Netzwerk ist eine Skalierungslösung für Ethereum, die darauf abzielt, die Geschwindigkeit zu erhöhen und die Kosten für Transaktionen auf der Blockchain zu senken. Es handelt sich um eine Off-Chain-Lösung, die Zahlungskanäle nutzt, um schnellere und effizientere Transaktionen zu ermöglichen.
 
-In the Raiden Network, users can open payment channels with each other by depositing a certain amount of Ethereum into a smart contract. Once the channel is open, they can transact with each other off-chain, with the final balance settled on the Ethereum blockchain only when the channel is closed.
+Im Raiden-Netzwerk können Benutzer Zahlungskanäle miteinander öffnen, indem sie eine bestimmte Menge Ethereum in einen Smart Contract einzahlen. Sobald der Kanal geöffnet ist, können sie miteinander Off-Chain-Transaktionen durchführen, wobei der endgültige Saldo nur dann auf der Ethereum-Blockchain abgerechnet wird, wenn der Kanal geschlossen wird.
 
-The Raiden Network uses a network of payment channels to allow users to transact with each other without the need for every transaction to be processed on the Ethereum blockchain. This makes it possible to execute a large number of transactions quickly and cheaply.
+Das Raiden-Netzwerk nutzt ein Netzwerk von Zahlungskanälen, um Benutzern zu ermöglichen, miteinander zu transagieren, ohne dass jede Transaktion auf der Ethereum-Blockchain verarbeitet werden muss. Dies ermöglicht es, eine große Anzahl von Transaktionen schnell und kostengünstig auszuführen.
 
-Our service provides generated QR codes that allow users to easily and securely make payments on the Raiden Network. These QR codes can be used to buy or bid on generative art during an exhibition, providing a convenient and efficient payment option for buyers and sellers alike.
+Unser Service bietet generierte QR-Codes, die es Benutzern ermöglichen, Zahlungen im Raiden-Netzwerk einfach und sicher durchzuführen. Diese QR-Codes können zum Kauf oder zum Bieten auf generative Kunst während einer Ausstellung verwendet werden und bieten eine bequeme und effiziente Zahlungsoption für Käufer und Verkäufer gleichermaßen.
 
-# Articles 
+# Artikel
 
 [Scaling Ethereum: Exploring Layer 2 Solutions](https://medium.com/coinmonks/scaling-ethereum-exploring-layer-2-solutions-1fd26943f55e)
