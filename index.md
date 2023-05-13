@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Discover generative art exhibitions
+# Entdecken Sie generative Kunstausstellungen
 
-Experience the beauty of generative art at our exhibitions, where digital artworks are created through algorithmic or random generation. Visitors can purchase artwork using a QR code at promoted locations on the GeneratedArt platform.
+Erleben Sie die Schönheit generativer Kunst auf unseren Ausstellungen, wo digitale Kunstwerke durch algorithmische oder zufällige Erzeugung entstehen. Besucher können Kunstwerke über einen QR-Code an beworbenen Standorten auf der GeneratedArt-Plattform kaufen.
