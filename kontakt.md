@@ -1,7 +1,7 @@
 ---
-title: Contact
+title: Kontakt
 layout: contact
-description: Contact
+description: Kontakt
 ---
 
 Vielen Dank, dass Sie sich uns auf unserer Reise durch die generative Kunst anschließen möchten! Wenn Sie allgemeine Anfragen oder Fragen haben, zögern Sie bitte nicht, uns per E-Mail oder über das unten stehende Formular zu kontaktieren. Wir würden uns freuen, von Ihnen zu hören und Ihnen auf jede erdenkliche Weise zu helfen.
